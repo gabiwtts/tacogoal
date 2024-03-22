@@ -1,4 +1,4 @@
-@import
+ @import
 url('Zilla_Slab_Highlight.zip');
 body{
     font-family: 'Zilla Slab Highlight', sans-serif;
@@ -50,7 +50,7 @@ section{
 }
 footer{
     background-color: #333;
-    color: #fff;
+    color: #ffffff;
     text-align: center;
     padding: 10px 0;
     position: fixed;
